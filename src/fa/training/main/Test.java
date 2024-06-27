@@ -34,7 +34,7 @@ public class Test {
                     management.addMultimedia(song);
                     break;
                 case 3:
-                    System.out.println("-----List of Multimedia-----");
+                    System.out.println("-----LIST OF MULTIMEDIA-----");
                     management.displayMultimedia();
                     break;
                 case 4:

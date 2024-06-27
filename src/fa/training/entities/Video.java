@@ -16,6 +16,6 @@ public class Video extends Multimedia{
 
     @Override
     public String toString() {
-        return "Video :   " + getName()+ "   "+ getDurations();
+        return "Video:   " + getName()+ "   "+ getDurations();
     }
 }

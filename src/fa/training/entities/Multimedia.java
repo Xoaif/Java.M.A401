@@ -35,7 +35,7 @@ public abstract class Multimedia {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter name: "  );
         this.setName(sc.nextLine());
-        System.out.println("Enter durations (minutes): " );
+        System.out.println("Enter durations: " );
         this.setDurations(sc.nextDouble());
     }
 }
